@@ -87,6 +87,4 @@ MIT License.
 ---
 
 **Liên hệ:** Nếu có thắc mắc hoặc góp ý, vui lòng liên hệ qua sansieuga02@gmail.com
-```
-![image](https://github.com/user-attachments/assets/65893673-5566-4a31-b46a-56690b8b760b)
 
